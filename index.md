@@ -6,7 +6,7 @@ test 100012131
 
 london has not any river. 
 
-london has not any river 
+london has many rivers
 
 
-london has 2 rivers 
+london has 2 rivers
